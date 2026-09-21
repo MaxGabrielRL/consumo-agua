@@ -7,7 +7,7 @@
 ## 🎯 Sobre o Projeto
 Este código em Python foi desenvolvido para identificar o nível de consumo de água de imóveis (comerciais, casas e apartamentos) e, se necessário, alertar aos moradores sobre a necessidade de adotar medidas de economia.
 
-## 🤖 Tecnologias Utilizadas
+## 🤖 Linguagem Utilizada
 * **Python 3**
 
 ## Passos para Execução do Programa

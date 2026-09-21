@@ -1,11 +1,11 @@
-# ♻️ Semana da Conscientização Ambiental - Consumo de Água Consciente
+# ♻️ Projeto Conscientização Ambiental - Consumo de Água Responsável
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Energia](https://img.shields.io/badge/Sustentabilidade-Água-0077BE?style=for-the-badge&logo=water)
 
 ## 🎯 Sobre o Projeto
-Este é um código simples em Python que foi desenvolvido para identificar o nível de consumo de água de imóveis (comerciais, casas e apartamentos) e identificar o nível de consumo e, se necessário, alertar aos moradores sobre o uso consciente de água.
+Este código em Python foi desenvolvido para identificar o nível de consumo de água de imóveis (comerciais, casas e apartamentos) e, se necessário, alertar aos moradores sobre a necessidade de adotar medidas de economia.
 
 ## 🤖 Tecnologias Utilizadas
 * **Python 3**
